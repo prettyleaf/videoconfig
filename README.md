@@ -1,8 +1,11 @@
-# Crash Legends Season 15 Video Configs
+# Apex Legends Season 15 Video Configs
 
 ## Apex Legends videoconfig based on performance improvement.
 
-Please remove preset name argument in file name to make it work in-game.
+- Please remove preset name argument in file name to make it work in-game.
+- Please make sure you have checked the "Read-only" box in the file properties before launching the game.
+
+## Installation
 
 - How to make it work? Put ``videoconfig.txt`` in the directory:
 
