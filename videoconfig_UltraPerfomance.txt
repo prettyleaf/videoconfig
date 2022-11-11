@@ -37,6 +37,6 @@
 	"setting.fadeDistScale"		"1.000000"
 	"setting.dvs_supersample_enable"		"0"
 	"setting.new_shadow_settings"		"0"
-	"setting.gamma"		"0.84"
+	"setting.gamma"		"0.85"
 	"setting.configversion"		"7"
 }
