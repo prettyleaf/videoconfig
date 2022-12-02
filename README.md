@@ -20,7 +20,7 @@
     ```
 - Please remove preset name argument in file name to make it work in-game.
 - Please make sure you have checked the "Read-only" box in the file properties before launching the game.   
-- Also try importing the (autoexec)(https://github.com/Rockstar234/autoexec)
+- Also try importing an [autoexec](https://github.com/Rockstar234/autoexec)
 ## What does the strings and numbers mean? What Changed? (Advanced users)
 You may edit the config for your needs, but nobody else expect you will take a responsibility for it.
 
