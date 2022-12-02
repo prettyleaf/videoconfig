@@ -1,5 +1,11 @@
 # Apex Legends Season 15 Video Configs
 
+<p align="center">
+  <a href="https://www.donationalerts.com/r/pr3ttyleaf">
+  <img src="https://img.shields.io/badge/Sponsor-blue?logo=github-sponsors&style=for-the-badge&color=grey">
+</a> 
+</p>
+
 ## Apex Legends videoconfig based on performance improvement.
 
 - Please remove preset name argument in file name to make it work in-game.
@@ -14,7 +20,7 @@
     ```
 - Please remove preset name argument in file name to make it work in-game.
 - Please make sure you have checked the "Read-only" box in the file properties before launching the game.   
-    
+- Also try importing the (autoexec)(https://github.com/Rockstar234/autoexec)
 ## What does the strings and numbers mean? What Changed? (Advanced users)
 You may edit the config for your needs, but nobody else expect you will take a responsibility for it.
 
